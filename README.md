@@ -10,7 +10,7 @@
 $${\color{#7A0411}\Huge ⋆｡‧₊˚ ⊹ ♡ ⊹ ˚₊‧｡⋆}$$
 
 $${
-\color{#D6336C}
+\color{#400106}
 \Huge ⋆｡‧₊˚✩ 
 \space Hey 
 \space there! 
@@ -22,7 +22,7 @@ $${
 }$$
 
 <head>
-  <h3> I am a Superior technician student in software development </h3>
+  <h3> ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ I am a Superior technician student in software development </h3>
 <div align= "center">
 <p align="center">
 <a href="https://linkedin.com/in/giovana-ruby-díaz-anduze"><img src="https://img.shields.io/badge/LinkedIn-BD081C?style=flat&logo=linkedin&logoColor=white"></a>
@@ -33,3 +33,15 @@ $${
 </head>
 
 $${\color{#7A0411}\Huge ⋆｡‧₊˚ ⊹ ♡ ⊹ ˚₊‧｡⋆}$$
+
+---
+
+<div align="left">
+
+$\color{#400106}\Huge{\space     \space *ੈ✩‧₊˚ \space About \space me}$
+
+</div>
+
+<div align = "justify">
+  <p><i>Disciplined student with a strong attetion to detail for the management and development of innovative projects that is best performed in quet environments allowing ther to contribute ideas to creative solutions. Enjoys for individual work; however, flexible to work collaboratively, responsibly and assertively.</i></p>
+</div>
