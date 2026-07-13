@@ -123,9 +123,44 @@ $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space My \space projects}$
 </div>
 
 <div align="center">
-![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true)
- 
+<div align="center">
+
+<br></br>
+<div align = "left">
+  
+  $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space Certifications}$
+
 </div>
+<br></br>
+
+<img width="100" height="100" alt="network-technician-career-path" src="https://github.com/user-attachments/assets/4dd9b6e7-80bc-45c9-a13c-64868fa55c4a" />
+
+<br></br>
+
+<div align = "left">
+  
+  $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space Statistics}$
+
+</div>
+
+<br></br>
+
+<img src="https://streak-stats.demolab.com?user=GiovanaTSW&hide_border=true&background=FFFFFF00&ring=BD081C&fire=B03052&currStreakNum=400106&sideNums=7A0411&currStreakLabel=8A0F2E&sideLabels=A3021A&dates=5C0A24&border=00000000">
+
+<br></br>
+
+<div align="center">
+  
+  $\color{#B03052}\Huge{\space \space ⋆｡°✩ \space Thanks \space for \space visiting \space my \space profile! \space ✩°｡⋆}$
+
+</div>
+<br></br>
+<div align="center">
+<img 
+  width="1792" 
+  height="500" 
+  alt="banner_principio" 
+  src="https://github.com/user-attachments/assets/3fe05622-2b79-4a58-b6e6-436edeeb4a5f" />
+</div>
+
 </body>
