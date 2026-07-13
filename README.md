@@ -154,7 +154,12 @@ $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space My \space projects}$
   $\color{#B03052}\Huge{\space \space ⋆｡°✩ \space Thanks \space for \space visiting \space my \space profile! \space ✩°｡⋆}$
 
 </div>
-<br></br>
+</body>
+
+$${\color{#7A0411}\Huge ⋆｡‧₊˚ ⊹ ♡ ⊹ ˚₊‧｡⋆}$$
+
+---
+
 <div align="center">
 <img 
   width="1792" 
@@ -163,4 +168,4 @@ $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space My \space projects}$
   src="https://github.com/user-attachments/assets/3fe05622-2b79-4a58-b6e6-436edeeb4a5f" />
 </div>
 
-</body>
+
