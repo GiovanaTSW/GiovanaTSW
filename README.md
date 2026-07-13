@@ -133,7 +133,9 @@ $\color{#B03052}\Huge{\space \space *ੈ✩‧₊˚ \space My \space projects}$
 </div>
 <br></br>
 
-<img width="100" height="100" alt="network-technician-career-path" src="https://github.com/user-attachments/assets/4dd9b6e7-80bc-45c9-a13c-64868fa55c4a" />
+<img width="150" height="150" alt="network-technician-career-path" src="https://github.com/user-attachments/assets/4dd9b6e7-80bc-45c9-a13c-64868fa55c4a" />
+
+<img width="161" height="161" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/ee5b3493-e4ba-453f-b46f-208b8606be0a" />
 
 <br></br>
 
